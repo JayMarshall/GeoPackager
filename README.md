@@ -1,5 +1,5 @@
 # GeoPackager
-## A Python module for creating, reading, and modifying GeoPackages
+## A Python module for performing CRUD operations on OGC GeoPackages
 
 ## Author: Alec Marshall, 2023
 
